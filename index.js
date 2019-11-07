@@ -3,8 +3,7 @@ const client = new Discord.Client();
 const { Client, RichEmbed } = require('discord.js');
 const PREFIX = '!';
 const ms = require('ms');
-const {prefix} = require('./config.json');
-const token = 'NjM5Mzk2ODA2NjM1MTU5NTUy.XcHEzw.7Cdmn5yNGfcHY1RCVXulzh3CipA';
+const token = 'NjM5Mzk2ODA2NjM1MTU5NTUy.XcRdVw.x_fZuOKT28FvKzj-lj1b4-jvu68';
 
 client.on('ready', () =>{
     console.log('Botas paleistas!');
